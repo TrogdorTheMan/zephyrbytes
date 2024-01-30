@@ -1,0 +1,4 @@
+baseURL = 'http://zephyrbytes.com/'
+languageCode = 'en-us'
+title = 'ZephyrBytes IT Solutions'
+theme = "ananke"
