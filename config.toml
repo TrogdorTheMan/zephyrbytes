@@ -1,4 +1,48 @@
-baseURL = 'http://zephyrbytes.com/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'ZephyrBytes IT Solutions'
-theme = "ananke"
+theme = 'graysx'
+title = 'ZephyrBytes LLC'
+
+## Site Settings
+[params]
+logo = "assets/img/logo.webp"
+favicon = "assets/favicon.png"
+
+# Info
+address = "We're a one man shop based out of Seattle, WA"
+email = "coryf@zephyrbytes.com"
+phone = "(206) 222-3173"
+
+# Socials
+
+twitter = "#"
+facebook = "#"
+github = "https://github.com/TrogdorTheMan/zephyrbytes"
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+sbtoken = "TOKEN_HERE"
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Services"
+  URL = "#services"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#signup"
+  weight = 3
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04
