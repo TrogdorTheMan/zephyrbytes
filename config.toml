@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-theme = 'graysx'
+theme = 'hugoplate'
 title = 'ZephyrBytes LLC'
 
 ## Site Settings
